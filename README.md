@@ -1,8 +1,11 @@
-Food Delivery Analysis
-Project Overview
+## Food Delivery Analysis
+
+## Project Overview:
+
 This Jupyter Notebook performs an analysis on food delivery data from New Delhi. The analysis includes data loading, exploration, and visualization to understand various aspects of food delivery orders.
 
-Dataset
+## Dataset:
+
 The dataset used in this analysis is food_orders_new_delhi.csv. It contains 1,000 entries with the following columns:
 
 Order ID: Unique identifier for each order
@@ -23,7 +26,9 @@ Loading Data: The dataset is loaded into a pandas DataFrame.
 Data Exploration:
 Displaying the information and structure of the dataset using data.info().
 Generating descriptive statistics using data.describe().
-Visualizations
+
+## Visualizations:
+
 The notebook includes various visualizations to analyze the data:
 
 Distribution of order values
@@ -32,7 +37,9 @@ Payment methods distribution
 Analysis of discounts and offers
 Commission fee and payment processing fee statistics
 Refunds and chargebacks analysis
-How to Run the Notebook
+
+## How to Run the Notebook:
+
 Ensure you have Python installed along with the following libraries:
 
 pandas
@@ -45,5 +52,7 @@ Place the food_orders_new_delhi.csv file in the same directory as the notebook.
 
 Open the Jupyter Notebook and run the cells sequentially to perform the analysis.
 
-Conclusion
+## Conclusion:
+
 This analysis provides insights into the food delivery orders in New Delhi, highlighting key trends and patterns in the data. The visualizations help in understanding the distribution and relationships between different variables in the dataset.
+
